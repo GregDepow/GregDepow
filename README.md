@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GregDepow, a Psychology PhD student at the University of Toronto
-- 👀 I’m interested in empathy, well-being, prosociality, and other aspects of psychology.
+- 👀 I’m interested in empathy, well-being, social media, prosociality, and other aspects of psychology.
 - 🌱 I’m currently learning R, python, SQL, EEG/ERP
-- 💞️ I’m looking to collaborate on interesting research projects. Interdisciplinary or cross-cultural research is great.
+- 💞️ I’m looking to collaborate on interesting research projects. Interdisciplinary or cross-cultural research is also good.
 - 📫 How to reach me: greg.depow@gmail.com, www.gregdepow.com, @GDepow on Twitter  
 
 <!---
